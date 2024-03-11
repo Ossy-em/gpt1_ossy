@@ -1,5 +1,6 @@
 import React from 'react';
-import '.cta.css';
+import './cta.css'; // Adjust the path and file name
+// ... rest of the code
 
 const CTA = () => {
 
