@@ -4,7 +4,7 @@ import './article.css';
 const Article =()=> {
     return(
         <div>
-        <p>Read Full Article</p>
+        <p>Read Full Article.</p>
       </div>
       )
 }
