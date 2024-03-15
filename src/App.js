@@ -6,7 +6,8 @@ import Navbar from './components/navbar/Navbar'
 
 import Blog from './containers/blog/Blog'
 import  Features from './containers/features/Features'
-// import Footer from './containers/footer/Footer'
+import Footer from './containers/footer/Footer'
+import Header from './containers/header/Header'
 const App = () => {
   return (
     <div>
@@ -19,7 +20,8 @@ const App = () => {
    </div>
    <Blog/>
 <Features/>
-{/* <Footer/> */}
+<Footer/>
+<Header/>
     </div>
   )
 }

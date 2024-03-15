@@ -1,13 +1,13 @@
 import React from 'react';
-import './footer.css';
+import './header.css';
 
-const Footer =()=> {
+const Header =()=> {
     return(
         <div>
-        <p>Read Full Footer</p>
+        <p>Read Full Header</p>
       </div>
       )
 }
       
   
-export default Footer;
+export default Header;
