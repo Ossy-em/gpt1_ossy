@@ -26,3 +26,11 @@
     display: flex;
     flex-direction: row;
 }
+
+.gpt3__navbar-sign {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+
