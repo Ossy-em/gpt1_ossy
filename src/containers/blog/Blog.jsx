@@ -4,7 +4,7 @@ import './blog.css';
 const Blog=()=> {
     return(
         <div>
-        <p>Read Full Blog.</p>
+        <p>  .</p>
       </div>
       )
 }

@@ -4,7 +4,7 @@ import './header.css';
 const Header =()=> {
     return(
         <div>
-        <p>Read Full Header</p>
+        <p></p>
       </div>
       )
 }

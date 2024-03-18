@@ -4,7 +4,7 @@ import './possibility.css';
 const Possibility=()=> {
     return(
         <div>
-        <p>Read Full gh Possibility.</p>
+        <p></p>
       </div>
       )
 }

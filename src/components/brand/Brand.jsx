@@ -3,7 +3,7 @@ import './brand.css';
 const Brand = () => {
   return (
     <div>
-      <h1>brandxfghjk</h1>
+      <h1></h1>
     </div>
   )
 }

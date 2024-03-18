@@ -4,7 +4,7 @@ import './features.css';
 const Features =()=> {
     return(
         <div>
-        <p>Read Full Features</p>
+        <p></p>
       </div>
       )
 }

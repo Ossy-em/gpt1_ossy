@@ -4,7 +4,7 @@ import './footer.css';
 const Footer =()=> {
     return(
         <div>
-        <p>Read Full Footer</p>
+        <p></p>
       </div>
       )
 }
